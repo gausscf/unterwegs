@@ -37,6 +37,10 @@ segment_014.ts
 segment_015.ts
 #EXTINF:10.000000,
 segment_016.ts
-#EXTINF:2.250000,
+#EXTINF:10.000000,
 segment_017.ts
+#EXTINF:10.000000,
+segment_018.ts
+#EXTINF:7.250000,
+segment_019.ts
 #EXT-X-ENDLIST
